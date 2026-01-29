@@ -5,7 +5,7 @@
   "fonts": [
     {
       "name": "ScribbleScript",
-      "file": "Scribble-Script-TTF.ttf",
+      "main": "Scribble-Script-TTF.ttf",
       "weight": 400,
       "style": "normal"
     }
