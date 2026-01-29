@@ -1,13 +1,10 @@
 {
   "spec": 1,
   "name": "Scribble Script",
-  "author": "Niar",
   "fonts": [
     {
       "name": "ScribbleScript",
-      "main": "Scribble-Script-TTF.ttf",
-      "weight": 400,
-      "style": "normal"
+      "main": "Scribble-Script-TTF.ttf"
     }
   ]
 }
