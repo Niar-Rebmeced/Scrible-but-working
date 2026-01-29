@@ -1,11 +1,12 @@
 {
-  "name": "My Custom Font",
+  "spec": 1,
+  "name": "Scribble Script",
   "author": "Niar",
   "fonts": [
     {
-      "name": "ScribleScript",
+      "name": "ScribbleScript",
       "file": "Scribble-Script-TTF.ttf",
-      "weight": "400",
+      "weight": 400,
       "style": "normal"
     }
   ]
